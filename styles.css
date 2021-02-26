@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+}
+.contenedor{
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-left: 30%;
+    margin-top: 20px;
+}
+
+.titulo{
+    background-color: white;
+    text-align: center;
+    
+}
+.Nombre_post{
+    
+    position: absolute;
+}
+.imagen img{
+    width: 600px;
+    height: 400px;
+    margin-top: 10%;
+}
+footer{
+    background-color: white;
+}
+.numeros{
+    position: absolute;
+    color: grey;
+    margin-left: 35%;
+}
